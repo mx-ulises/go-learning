@@ -2,7 +2,8 @@ package main
 
 import (
 	"log"
-	"github.com/mx-ulises/go-learning/distributed-services-with-go/proglog"
+
+	"github.com/mx-ulises/go-learning/distributed-services-with-go/proglog/internal/server"
 )
 
 func main() {
